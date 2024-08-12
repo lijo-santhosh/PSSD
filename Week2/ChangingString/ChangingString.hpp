@@ -1,5 +1,4 @@
 // PSSD
-// Week 2 - Q3.
 #include <iostream>
 using namespace std;
 
